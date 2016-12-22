@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LockApp</string>
+
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <!-- Accessibility description sent when the pattern times out and is cleared. -->
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <!-- Accessibility description sent when user adds a cell to the pattern. -->
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <!-- Accessibility description sent when user completes drawing a pattern. -->
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+
+
+    <string name="lock_tip_pattern_ready">Pattern Ready</string>
+    <string name="lock_tip_pattern_start">Pattern Start</string>
+    <string name="lock_tip_pattern_error_tooless">Error</string>
+    <string name="lock_tip_pattern_recored">Pattern Recorded</string>
+    <string name="lock_tip_pattern_check">Check Pattern</string>
+    <string name="lock_tip_pattern_error_checkerror">Check Error</string>
+    <string name="lock_tip_pattern_done">Pattern Done</string>
+
+    <string name="verify_tip_input">Verify Input</string>
+    <string name="verify_tip_error">Verify Error</string>
+
+    <string name="lock_btn_next">Next</string>
+    <string name="lock_btn_done">Done</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_retry">Retry</string>
+
+    <string name="message_enter_pin">Enter PIN</string>
+    <string name="message_enter_new_pin">Enter new PIN</string>
+    <string name="message_confirm_pin">Re enter PIN</string>
+    <string name="message_invalid_pin">Invalid PIN. Try again</string>
+    <string name="message_pin_mismatch">PIN mismatch. Try again</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_forgot_pin">Forgot PIN</string>
+</resources>
